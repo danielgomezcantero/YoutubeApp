@@ -13,7 +13,7 @@ import { YoutubeResponse } from '../models/youtube.models';
 export class YoutubeService {
 
   private youtubeUrl='https://www.googleapis.com/youtube/v3';
-  private apikey='AIzaSyB1RfChSLB5xcwJC61uR1vUnugAIw7Llu4';
+  private apikey='';
   private nextPageToken='';
   private playList='UUuaPTYj15JSkETGnEseaFFg';
 
